@@ -379,8 +379,8 @@ MIT License - используй как хочешь!
 
 ### Поддержка
 
-- Telegram: [@YourUsername](https://t.me/YourUsername)
-- Issues: [GitHub Issues](https://github.com/yourusername/bot_constructor/issues)
+- Telegram: [Ghost](https://t.me/LittleWhiteGhost)
+- Issues: [GitHub Issues](https://github.com/LittleWhiteGhost/tg-bot-constructor/issues)
 
 ---
 
